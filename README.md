@@ -1,2 +1,3 @@
 # shivaram
-my 1st git repository
+my 1st git repositor
+Author-Shivaram
